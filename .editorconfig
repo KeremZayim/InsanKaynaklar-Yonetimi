@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0414: 'UC_PersonelAdd.statu' alanı atanır ancak değeri hiçbir zaman kullanılmaz
+dotnet_diagnostic.CS0414.severity = silent
